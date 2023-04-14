@@ -6,6 +6,8 @@ See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=
 
 ![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
 
+# This wasn't written by me.
+
 ## Updates
 
 Chatbot UI will be updated over time.
